@@ -6,7 +6,7 @@
 
 ## 10/10
 ```js
-{
+var data = {
     "1": {
         "name": "Hydrogen",
         "appearance": "colorless gas",
